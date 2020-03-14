@@ -1,5 +1,5 @@
 from flask import Flask
-from .flask_semanticui import SemanticUI
+from flask_semanticui import SemanticUI
 
 
 def create_app():
