@@ -20,3 +20,6 @@ def create_app():
 ...
 ```
 You can also take a look at the `sample.py`. Maybe it will help, but I think it's pretty easy.
+
+### License
+This work is licensed under GPLv3. See `LICENSE.txt` for details.
