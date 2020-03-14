@@ -11,7 +11,6 @@ setup(
     packages=['flask_semanticui'],
     include_package_data=True,
     install_requires=[
-        'Flask>=1.0',
-        'flask_wtf>=0.14'
+        'Flask>=1.0'
     ]
 )
