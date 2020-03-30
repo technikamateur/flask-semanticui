@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/technikamateur/flask-semanticui.svg?token=Wquo1zyY6o7zisYoQDTw&branch=master)](https://travis-ci.com/technikamateur/flask-semanticui)
 
 ### About
-This simple extension adds Semantic UI support to your Flask project. It has currently no support for WTForms. This will come in a later version. But you can all semantic UI features, like icons, animations, ... You name it.
+This simple extension adds Semantic UI support to your Flask project. It has currently no support for WTForms. This will come in a later version. But you can use all semantic UI features, like icons, animations, ... You name it.
 
 Based on [Semantic UI v2.4.1](https://github.com/Semantic-Org/Semantic-UI-CSS).
 
